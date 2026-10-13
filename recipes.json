@@ -583,6 +583,230 @@
           "text": "Soured milk is thinner than true buttermilk, so the lower end of the original range gives a batter with the right body."
         }
       ]
+    },
+    {
+      "id": "almond-cardamom-strawberry-tea-cake",
+      "title": "Almond, Cardamom & Strawberry Tea Cake",
+      "category": "desserts",
+      "protein": "Vegetarian",
+      "tagline": "Samin Nosrat's almond-paste tea cake from Salt Fat Acid Heat, baked over a caramelized almond topping, with fresh strawberries folded in. One 9-inch (23 cm) round cake. Oven 175°C (350°F).",
+      "updated": "13 October 2026",
+      "credit": "Adapted from Salt Fat Acid Heat by Samin Nosrat (Simon & Schuster, 2017). The strawberries are a later addition, not in the original.",
+      "versions": [
+        {
+          "name": "With strawberries",
+          "summary": "Not yet made. Gram weights come from the recipe's ounce measures; strawberries and the small spice amounts are converted estimates. Adapted from Salt Fat Acid Heat by Samin Nosrat; the strawberries are a later addition.",
+          "groups": [
+            {
+              "name": "Almond topping",
+              "items": [
+                {
+                  "name": "Butter",
+                  "amount": 57,
+                  "unit": "g",
+                  "us": {
+                    "amount": 4,
+                    "unit": "tbsp"
+                  }
+                },
+                {
+                  "name": "Granulated sugar",
+                  "amount": 38,
+                  "unit": "g",
+                  "us": {
+                    "amount": 3,
+                    "unit": "tbsp"
+                  }
+                },
+                {
+                  "name": "Sliced almonds",
+                  "amount": 85,
+                  "unit": "g",
+                  "us": {
+                    "amount": 0.9,
+                    "unit": "cup"
+                  },
+                  "usNote": "A scant cup."
+                },
+                {
+                  "name": "Maldon or other flaky salt",
+                  "amount": 1,
+                  "unit": "g",
+                  "approx": true,
+                  "usText": "pinch"
+                }
+              ]
+            },
+            {
+              "name": "Dry",
+              "items": [
+                {
+                  "name": "Cake flour",
+                  "amount": 149,
+                  "unit": "g",
+                  "us": {
+                    "amount": 1,
+                    "unit": "cup"
+                  },
+                  "note": "Set aside about 8 g (1 tbsp) for the strawberries."
+                },
+                {
+                  "name": "Baking powder",
+                  "amount": 4,
+                  "unit": "g",
+                  "us": {
+                    "amount": 1,
+                    "unit": "tsp"
+                  }
+                },
+                {
+                  "name": "Kosher salt",
+                  "amount": 3,
+                  "unit": "g",
+                  "us": {
+                    "amount": 1,
+                    "unit": "tsp"
+                  },
+                  "usNote": "Diamond Crystal, or ½ tsp fine sea salt."
+                }
+              ]
+            },
+            {
+              "name": "Eggs and spice",
+              "items": [
+                {
+                  "name": "Large eggs, at room temperature",
+                  "amount": 4,
+                  "unit": ""
+                },
+                {
+                  "name": "Vanilla extract",
+                  "amount": 4,
+                  "unit": "g",
+                  "us": {
+                    "amount": 1,
+                    "unit": "tsp"
+                  }
+                },
+                {
+                  "name": "Ground cardamom",
+                  "amount": 5,
+                  "unit": "g",
+                  "approx": true,
+                  "us": {
+                    "amount": 2.5,
+                    "unit": "tsp"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Cake",
+              "items": [
+                {
+                  "name": "Almond paste, at room temperature",
+                  "amount": 269,
+                  "unit": "g",
+                  "us": {
+                    "amount": 1,
+                    "unit": "cup"
+                  }
+                },
+                {
+                  "name": "Granulated sugar",
+                  "amount": 198,
+                  "unit": "g",
+                  "us": {
+                    "amount": 1,
+                    "unit": "cup"
+                  }
+                },
+                {
+                  "name": "Butter, at room temperature, cubed",
+                  "amount": 227,
+                  "unit": "g",
+                  "us": {
+                    "amount": 1,
+                    "unit": "cup"
+                  },
+                  "usNote": "16 tbsp, two sticks."
+                },
+                {
+                  "name": "Strawberries, sliced",
+                  "amount": 300,
+                  "unit": "g",
+                  "approx": true,
+                  "us": {
+                    "amount": 2,
+                    "unit": "cup"
+                  },
+                  "note": "Optional, but recommended."
+                }
+              ]
+            }
+          ],
+          "steps": [
+            {
+              "title": "Prepare the pan",
+              "text": "Heat the oven to 175°C (350°F) with a rack in the upper third. Butter and flour a 9 by 2-inch (23 by 5 cm) round pan and line the bottom with parchment."
+            },
+            {
+              "title": "Make the almond topping",
+              "text": "Cook the topping butter and sugar in a small saucepan over medium-high heat for about 3 minutes, until the sugar has dissolved and the butter is bubbling and foamy. Off the heat, stir in the almonds and flaky salt, then spread it evenly over the bottom of the pan. It becomes the top of the cake once it's turned out."
+            },
+            {
+              "title": "Sift the dry ingredients",
+              "text": "Sift the cake flour, baking powder and salt onto a sheet of parchment, keeping back about a tablespoon of flour for the strawberries. Sifting mixes the leavening evenly and breaks up lumps."
+            },
+            {
+              "title": "Season the eggs",
+              "text": "Whisk the eggs, vanilla and cardamom together in a small bowl."
+            },
+            {
+              "title": "Grind the almond paste",
+              "text": "Pulse the almond paste in a food processor to break it up, then add the sugar and run it for about 90 seconds, until it looks like fine sand. A stand mixer works too; give it about 5 minutes."
+            },
+            {
+              "title": "Cream in the butter",
+              "text": "Add the butter and process until very light and fluffy, at least 2 minutes, scraping down the bowl partway so nothing is left unmixed."
+            },
+            {
+              "title": "Add the eggs slowly",
+              "text": "With the machine running, add the egg mixture a spoonful at a time, letting the batter turn smooth and glossy again before the next addition. This is an emulsion, like mayonnaise: rush the eggs and the butter can't hold them, and the batter breaks. Scrape the bowl, mix briefly, and move the batter to a large bowl."
+            },
+            {
+              "title": "Fold in flour and fruit",
+              "text": "Lift the parchment and shake the flour over the batter in three additions, folding gently after each until just combined. Toss the strawberries in the reserved flour, which helps keep them from sinking, and fold them in. Stop as soon as it's mixed; overmixing makes the cake tough."
+            },
+            {
+              "title": "Bake",
+              "text": "Scrape the batter over the topping and bake about 60 minutes, until a toothpick comes out clean and the cake is just pulling away from the sides."
+            },
+            {
+              "title": "Cool and turn out",
+              "text": "Cool in the pan on a rack. Run a knife around the edge, then warm the bottom of the pan over a burner for a few seconds so the caramelized topping lets go. Turn it out, peel off the parchment, and serve plain or with whipped cream."
+            }
+          ],
+          "notes": [
+            "Keeps 4 days at room temperature tightly wrapped, or 2 months frozen.",
+            "Equipment: food processor (or stand mixer), 9 by 2-inch round cake pan, parchment."
+          ]
+        }
+      ],
+      "why": [
+        {
+          "head": "Almond paste instead of most of the flour.",
+          "text": "The almond paste carries much of the cake's structure and nearly all its moisture, so it needs only a cup of flour. That's why it stays tender for days."
+        },
+        {
+          "head": "Eggs a spoonful at a time.",
+          "text": "Butter can only absorb liquid gradually. Added slowly, the eggs stay suspended in the fat as an emulsion; added all at once, the batter curdles and bakes up greasy and dense."
+        },
+        {
+          "head": "Cake flour and gentle folding.",
+          "text": "Cake flour is lower in protein, so it forms less gluten. Folding only until combined keeps it that way."
+        }
+      ]
     }
   ]
 }
