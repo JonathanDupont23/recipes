@@ -1,0 +1,328 @@
+{
+  "recipes": [
+    {
+      "id": "lievito-madre-focaccia",
+      "title": "Lievito Madre Focaccia",
+      "category": "breads",
+      "protein": null,
+      "tagline": "Overnight counter-rise focaccia for a 46×33 cm sheet pan, made with Molino Rossetto dried lievito madre. Oven 230°C (450°F).",
+      "updated": "13 October 2026",
+      "versions": [
+        {
+          "name": "Near perfect",
+          "status": "Baked",
+          "summary": "About 925 g of dough. Tall and airy but not bready. A bit of a challenge to stretch to the corners.",
+          "doughWeight": 925,
+          "groups": [
+            {
+              "name": "Dough",
+              "items": [
+                {
+                  "name": "All-purpose flour",
+                  "amount": 500,
+                  "unit": "g"
+                },
+                {
+                  "name": "Lukewarm water",
+                  "amount": 380,
+                  "unit": "g",
+                  "note": "35–40°C (95–105°F)"
+                },
+                {
+                  "name": "Molino Rossetto lievito madre powder",
+                  "amount": 4,
+                  "unit": "g",
+                  "note": "Weigh it. 3 g also works but rises about an hour slower."
+                },
+                {
+                  "name": "Honey",
+                  "amount": 10,
+                  "unit": "g",
+                  "note": "Crystallized is fine; it dissolves in the water."
+                },
+                {
+                  "name": "Kosher salt or fine sea salt",
+                  "amount": 12,
+                  "unit": "g",
+                  "note": "Diamond Crystal, Morton or sea salt: same by weight."
+                },
+                {
+                  "name": "Extra-virgin olive oil",
+                  "amount": 30,
+                  "unit": "g"
+                }
+              ]
+            },
+            {
+              "name": "Pan, brine and finishing",
+              "items": [
+                {
+                  "name": "Olive oil for the pan",
+                  "amount": 40,
+                  "unit": "g"
+                },
+                {
+                  "name": "Olive oil poured over the dough",
+                  "amount": 25,
+                  "unit": "g"
+                },
+                {
+                  "name": "Brine: kosher salt",
+                  "amount": 5,
+                  "unit": "g"
+                },
+                {
+                  "name": "Brine: lukewarm water",
+                  "amount": 80,
+                  "unit": "g"
+                },
+                {
+                  "name": "Maldon flakes, before baking",
+                  "amount": 2,
+                  "unit": "g",
+                  "approx": true,
+                  "note": "A light sprinkle."
+                },
+                {
+                  "name": "Olive oil for finishing",
+                  "amount": 40,
+                  "unit": "g"
+                },
+                {
+                  "name": "Maldon flakes, after baking",
+                  "amount": 2,
+                  "unit": "g",
+                  "approx": true
+                }
+              ]
+            }
+          ],
+          "steps": [
+            {
+              "title": "Mix (10 pm)",
+              "text": "Whisk the flour, salt and lievito madre powder in a very large bowl. Stir the honey into the water until dissolved. Add the water and the dough oil to the flour and stir until just combined. Cover."
+            },
+            {
+              "title": "Fold twice (by 11 pm)",
+              "text": "Rest 30 minutes, then fold with a wet hand: lift one side, stretch it up, lay it over, rotate the bowl, four times. Repeat 30 minutes later. Very sticky at first, much less by the second fold. Don't add flour. Mark the dough level on the bowl."
+            },
+            {
+              "title": "Overnight rise",
+              "text": "Leave covered at room temperature (about 20°C), wrapped in a blanket, until well risen, about 12 hours. Go by the rise, not the clock."
+            },
+            {
+              "title": "Pan (10 am)",
+              "text": "Spread the pan oil over the sheet pan. Gently fold the dough onto itself like an envelope and turn it in seam side down. Pour the second oil over it and stretch until it resists. Cover with an upside-down second sheet pan."
+            },
+            {
+              "title": "Rest and stretch (until about 12:30)",
+              "text": "Every 20–30 minutes, stretch a little further toward the corners, stopping each time it springs back. Continue until it fills the pan and is puffy and jiggly, about 2½ hours."
+            },
+            {
+              "title": "Dimple and brine (about 12:30)",
+              "text": "Dimple with three fingers at an angle. Dissolve the brine salt in the brine water and pour it over to fill the dimples. Rest 45–60 minutes. Preheat to 230°C (450°F) with a baking stone or inverted sheet pan on the center rack."
+            },
+            {
+              "title": "Bake (about 1:15–1:30)",
+              "text": "Sprinkle lightly with Maldon. Bake on the stone or inverted pan about 18 minutes, until the bottom is crisp and golden. Then 3–4 minutes on the upper rack to brown the top."
+            },
+            {
+              "title": "Finish and cool",
+              "text": "Brush with the finishing oil and scatter more Maldon while the surface is oily. Cool 5 minutes in the pan, release with a metal spatula, move to a rack. Slice after 15–20 minutes, top down, with a serrated knife or scissors."
+            }
+          ],
+          "logTitle": "The near-perfect bake, 11–12 October 2026",
+          "log": [
+            {
+              "when": "10:00 pm",
+              "text": "Dough mixed, with 4 g of powder as insurance on the rise."
+            },
+            {
+              "when": "10:30–11 pm",
+              "text": "Two folds, 30 minutes apart. Very sticky at the first, just right at the second."
+            },
+            {
+              "when": "Overnight",
+              "text": "Rose on the counter wrapped in a blanket, room 68–69°F. Clearly risen but not doubled at 8–9 hours, so it was left to keep going."
+            },
+            {
+              "when": "10:00 am",
+              "text": "Into the pan, a little over 900 g, covered with a second sheet pan."
+            },
+            {
+              "when": "10–12:30",
+              "text": "Rested and stretched to the corners. A bit of a challenge to stretch fully."
+            },
+            {
+              "when": "12:30 pm",
+              "text": "Dimpled and brined."
+            },
+            {
+              "when": "1:15–1:30",
+              "text": "Into the oven. About 18 minutes on the stone, then 3–4 minutes on the top rack."
+            },
+            {
+              "when": "Salt",
+              "text": "Mild sprinkle of Maldon before baking, more after baking alongside the finishing oil."
+            },
+            {
+              "when": "Result",
+              "text": "Near perfect."
+            }
+          ]
+        },
+        {
+          "name": "Slightly thinner",
+          "status": "Not yet baked",
+          "summary": "About 800 g of dough, roughly 13% thinner. Less dough makes the stretch slightly harder, not easier: stretch in stages and rest between them.",
+          "doughWeight": 800,
+          "groups": [
+            {
+              "name": "Dough",
+              "items": [
+                {
+                  "name": "All-purpose flour",
+                  "amount": 430,
+                  "unit": "g"
+                },
+                {
+                  "name": "Lukewarm water",
+                  "amount": 325,
+                  "unit": "g",
+                  "note": "35–40°C. Use 320 g for a less sticky dough."
+                },
+                {
+                  "name": "Molino Rossetto lievito madre powder",
+                  "amount": 4,
+                  "unit": "g",
+                  "note": "Weigh it."
+                },
+                {
+                  "name": "Honey",
+                  "amount": 9,
+                  "unit": "g"
+                },
+                {
+                  "name": "Kosher salt or fine sea salt",
+                  "amount": 10,
+                  "unit": "g"
+                },
+                {
+                  "name": "Extra-virgin olive oil",
+                  "amount": 25,
+                  "unit": "g"
+                }
+              ]
+            },
+            {
+              "name": "Pan, brine and finishing",
+              "items": [
+                {
+                  "name": "Olive oil for the pan",
+                  "amount": 40,
+                  "unit": "g"
+                },
+                {
+                  "name": "Olive oil poured over the dough",
+                  "amount": 25,
+                  "unit": "g"
+                },
+                {
+                  "name": "Brine: kosher salt",
+                  "amount": 5,
+                  "unit": "g"
+                },
+                {
+                  "name": "Brine: lukewarm water",
+                  "amount": 80,
+                  "unit": "g"
+                },
+                {
+                  "name": "Maldon flakes, before baking",
+                  "amount": 2,
+                  "unit": "g",
+                  "approx": true
+                },
+                {
+                  "name": "Olive oil for finishing",
+                  "amount": 40,
+                  "unit": "g"
+                },
+                {
+                  "name": "Maldon flakes, after baking",
+                  "amount": 2,
+                  "unit": "g",
+                  "approx": true
+                }
+              ]
+            }
+          ],
+          "steps": [
+            {
+              "title": "Mix (10 pm)",
+              "text": "Whisk the flour, salt and lievito madre powder in a very large bowl. Stir the honey into the water until dissolved. Add the water and the dough oil to the flour and stir until just combined. Cover."
+            },
+            {
+              "title": "Fold twice (by 11 pm)",
+              "text": "Rest 30 minutes, then fold with a wet hand. Repeat 30 minutes later. Mark the dough level on the bowl."
+            },
+            {
+              "title": "Overnight rise",
+              "text": "Leave covered at about 20°C, wrapped in a blanket, until well risen. Same powder with less flour, so it may be ready up to an hour sooner than the near-perfect version."
+            },
+            {
+              "title": "Pan",
+              "text": "Spread the pan oil over the sheet pan. Gently fold the dough onto itself and turn it in seam side down. Pour the second oil over it and stretch until it resists. Cover with an upside-down second sheet pan."
+            },
+            {
+              "title": "Rest and stretch",
+              "text": "Stretch only until it springs back, then leave it 15–20 minutes so the gluten relaxes. Repeat in short sessions until it fills the corners and is puffy and jiggly, about 2–2½ hours. Use plenty of oil underneath."
+            },
+            {
+              "title": "Dimple and brine",
+              "text": "Dimple, pour the brine over to fill the dimples, and rest 45–60 minutes while the oven and stone heat to 230°C (450°F)."
+            },
+            {
+              "title": "Bake",
+              "text": "Sprinkle lightly with Maldon. Bake on the stone or inverted pan, checking the bottom at 15–16 minutes; it may be done a little before 18. Then 3–4 minutes on the upper rack."
+            },
+            {
+              "title": "Finish and cool",
+              "text": "Brush with the finishing oil and scatter more Maldon. Cool 5 minutes in the pan, then on a rack. Slice after 15–20 minutes."
+            }
+          ],
+          "notes": [
+            "Bake time is an estimate until this version has been baked. Record the real time here afterward."
+          ]
+        }
+      ],
+      "why": [
+        {
+          "head": "Dough weight.",
+          "text": "The original recipe made about 1,480 g, roughly 1 g of dough per cm² of pan, which baked into a thick slab. 925 g (about 0.6 g/cm²) is tall and airy; 800 g is thinner still. Below about 750 g it starts to become flatbread."
+        },
+        {
+          "head": "The powder is mostly flavor; its yeast does the rising.",
+          "text": "Molino Rossetto lievito madre is 70% dried, inactive sourdough and 30% ordinary dry yeast. 4 g holds about 1.2 g of yeast. That small amount is why the rise takes all night, and the long, slow rise is where most of the flavor comes from."
+        },
+        {
+          "head": "Folds instead of kneading.",
+          "text": "Gluten forms on its own once flour is wet, and the long rise does the work kneading would. Folds organize the gluten so it traps gas and holds its shape."
+        },
+        {
+          "head": "Why the stretch fights back.",
+          "text": "Stretched gluten pulls back like a rubber band; given time it relaxes and stays put. Stretch in stages, keep plenty of oil underneath, and stretch it warm."
+        },
+        {
+          "head": "Maldon on top.",
+          "text": "Thin, hollow flakes sit on the surface and stay crunchy. Small dense kosher crystals dissolve into the brine and add saltiness without crunch."
+        }
+      ],
+      "next": [
+        "Bake the slightly thinner version and record the real bake time.",
+        "Same-day option: about 6 g powder for an 8–9 hour rise, or about 15 g for 4–5 hours somewhere warm. Faster rises taste plainer.",
+        "Bread flour, later: more height and chew, but springier and harder to stretch thin. Add about 10 g water. Change one thing at a time."
+      ]
+    }
+  ]
+}
