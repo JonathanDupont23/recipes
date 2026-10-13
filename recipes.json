@@ -323,6 +323,143 @@
         "Same-day option: about 6 g powder for an 8–9 hour rise, or about 15 g for 4–5 hours somewhere warm. Faster rises taste plainer.",
         "Bread flour, later: more height and chew, but springier and harder to stretch thin. Add about 10 g water. Change one thing at a time."
       ]
+    },
+    {
+      "id": "buttermilk-style-pancakes",
+      "title": "Buttermilk-Style Pancakes",
+      "category": "breakfast",
+      "protein": "Vegetarian",
+      "tagline": "Mark Bittman's basic pancakes, re-leavened for milk soured with lemon when there's no buttermilk. About 12 four-inch pancakes.",
+      "updated": "13 October 2026",
+      "versions": [
+        {
+          "name": "Lemon-soured milk",
+          "summary": "From the 7 October 2026 chat. Gram weights are converted from cups and spoons; the spoon measures are in the notes under each small amount.",
+          "groups": [
+            {
+              "name": "Soured milk",
+              "items": [
+                {
+                  "name": "Whole milk",
+                  "amount": 360,
+                  "unit": "g",
+                  "note": "1½ cups. Start here; add more only if the batter is too stiff to spread."
+                },
+                {
+                  "name": "Lemon juice",
+                  "amount": 22,
+                  "unit": "g",
+                  "note": "1½ tbsp, about half a lemon. White vinegar works the same."
+                }
+              ]
+            },
+            {
+              "name": "Dry",
+              "items": [
+                {
+                  "name": "All-purpose flour",
+                  "amount": 250,
+                  "unit": "g",
+                  "note": "2 cups"
+                },
+                {
+                  "name": "Baking powder",
+                  "amount": 4,
+                  "unit": "g",
+                  "note": "1 tsp (down from 2 tsp in the original)"
+                },
+                {
+                  "name": "Baking soda",
+                  "amount": 3,
+                  "unit": "g",
+                  "note": "½ tsp"
+                },
+                {
+                  "name": "Fine salt",
+                  "amount": 1.5,
+                  "unit": "g",
+                  "note": "¼ tsp"
+                },
+                {
+                  "name": "Sugar (optional)",
+                  "amount": 12,
+                  "unit": "g",
+                  "note": "1 tbsp"
+                }
+              ]
+            },
+            {
+              "name": "Wet",
+              "items": [
+                {
+                  "name": "Large eggs",
+                  "amount": 2,
+                  "unit": ""
+                },
+                {
+                  "name": "Butter, melted and cooled",
+                  "amount": 28,
+                  "unit": "g",
+                  "note": "2 tbsp"
+                },
+                {
+                  "name": "Butter or neutral oil, for the pan",
+                  "amount": 14,
+                  "unit": "g",
+                  "note": "About 1 tbsp, used across batches"
+                }
+              ]
+            }
+          ],
+          "steps": [
+            {
+              "title": "Sour the milk",
+              "text": "Stir the lemon juice into the milk and leave it alone for 10 minutes. It will thicken slightly and look curdled at the edges. That's the acid denaturing the milk proteins, the same thing that gives real buttermilk its body and tang."
+            },
+            {
+              "title": "Whisk the dry ingredients",
+              "text": "Whisk the flour, baking powder, baking soda, salt and sugar together thoroughly. Whisking matters more than usual here: baking soda is strong and fast, and an unmixed pocket of it tastes soapy and leaves a yellow-brown spot."
+            },
+            {
+              "title": "Whisk the wet ingredients",
+              "text": "Beat the eggs into the soured milk, then whisk in the melted butter. Make sure the butter has cooled or it will scramble the eggs."
+            },
+            {
+              "title": "Combine, barely",
+              "text": "Pour the wet into the dry and stir just until no dry flour remains. Lumps are correct. Every extra stroke develops gluten, which is what turns pancakes rubbery. If the batter is too stiff to spread, add milk a tablespoon at a time."
+            },
+            {
+              "title": "Heat the pan",
+              "text": "Set a skillet or griddle over medium heat and grease it. It's ready when a drop of water skitters across the surface rather than sitting and sizzling. Cook the batter within about 15 minutes: the soda reacted with the lemon the moment they met, and that lift fades as it sits."
+            },
+            {
+              "title": "Cook the first side",
+              "text": "Ladle out scant quarter-cups. Cook until the tops are covered in bubbles and the edges look dry and matte, 2 to 3 minutes."
+            },
+            {
+              "title": "Flip and finish",
+              "text": "Flip once and cook 1 to 2 minutes more, until the second side is golden. Only flip once: pressing down or re-flipping squeezes out the gas you just worked to create."
+            }
+          ],
+          "notes": [
+            "An earlier chat (July 2026) adapted the same base recipe with 1½ tsp baking powder plus ½ tsp baking soda instead of 1 tsp plus ½ tsp. This card uses the more recent version."
+          ]
+        }
+      ],
+      "why": [
+        {
+          "head": "Why the leavening changed.",
+          "text": "The original's 2 tsp baking powder carries its own acid and needs only moisture and heat. Lemon juice puts free acid in the batter, so half a teaspoon of baking soda does the heavy lifting. Soda is roughly three to four times stronger than powder, but only when there's acid to react with."
+        },
+        {
+          "head": "Why keep some baking powder.",
+          "text": "The remaining teaspoon is insurance. Baking powder has a second, heat-triggered stage that fires in the pan, so the pancakes keep rising after the soda's first burst is spent."
+        },
+        {
+          "head": "Why start at 1½ cups of milk.",
+          "text": "Soured milk is thinner than true buttermilk, so the lower end of the original range gives a batter with the right body."
+        }
+      ]
     }
   ]
 }
