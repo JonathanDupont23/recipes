@@ -20,36 +20,59 @@
                 {
                   "name": "All-purpose flour",
                   "amount": 500,
-                  "unit": "g"
+                  "unit": "g",
+                  "us": {
+                    "amount": 3.3333333333333335,
+                    "unit": "cup"
+                  },
+                  "usNote": "Spooned and leveled. Grams are more accurate for this dough."
                 },
                 {
                   "name": "Lukewarm water",
                   "amount": 380,
                   "unit": "g",
-                  "note": "35–40°C (95–105°F)"
+                  "note": "35–40°C (95–105°F)",
+                  "us": {
+                    "amount": 1.6,
+                    "unit": "cup"
+                  }
                 },
                 {
                   "name": "Molino Rossetto lievito madre powder",
                   "amount": 4,
                   "unit": "g",
-                  "note": "Weigh it. 3 g also works but rises about an hour slower."
+                  "note": "Weigh it. 3 g also works but rises about an hour slower.",
+                  "usNote": "No reliable spoon measure for this powder: weigh it."
                 },
                 {
                   "name": "Honey",
                   "amount": 10,
                   "unit": "g",
-                  "note": "Crystallized is fine; it dissolves in the water."
+                  "note": "Crystallized is fine; it dissolves in the water.",
+                  "us": {
+                    "amount": 1.5,
+                    "unit": "tsp"
+                  }
                 },
                 {
                   "name": "Kosher salt or fine sea salt",
                   "amount": 12,
                   "unit": "g",
-                  "note": "Diamond Crystal, Morton or sea salt: same by weight."
+                  "note": "Diamond Crystal, Morton or sea salt: same by weight.",
+                  "us": {
+                    "amount": 4,
+                    "unit": "tsp"
+                  },
+                  "usNote": "Diamond Crystal. Morton kosher: 2½ tsp. Fine sea salt: 2 tsp. (At batch ×1.)"
                 },
                 {
                   "name": "Extra-virgin olive oil",
                   "amount": 30,
-                  "unit": "g"
+                  "unit": "g",
+                  "us": {
+                    "amount": 2,
+                    "unit": "tbsp"
+                  }
                 }
               ]
             },
@@ -59,40 +82,63 @@
                 {
                   "name": "Olive oil for the pan",
                   "amount": 40,
-                  "unit": "g"
+                  "unit": "g",
+                  "us": {
+                    "amount": 3,
+                    "unit": "tbsp"
+                  }
                 },
                 {
                   "name": "Olive oil poured over the dough",
                   "amount": 25,
-                  "unit": "g"
+                  "unit": "g",
+                  "us": {
+                    "amount": 2,
+                    "unit": "tbsp"
+                  }
                 },
                 {
                   "name": "Brine: kosher salt",
                   "amount": 5,
-                  "unit": "g"
+                  "unit": "g",
+                  "us": {
+                    "amount": 1.5,
+                    "unit": "tsp"
+                  },
+                  "usNote": "Diamond Crystal. Morton kosher: 1 tsp."
                 },
                 {
                   "name": "Brine: lukewarm water",
                   "amount": 80,
-                  "unit": "g"
+                  "unit": "g",
+                  "us": {
+                    "amount": 0.3333333333333333,
+                    "unit": "cup"
+                  }
                 },
                 {
                   "name": "Maldon flakes, before baking",
                   "amount": 2,
                   "unit": "g",
                   "approx": true,
-                  "note": "A light sprinkle."
+                  "note": "A light sprinkle.",
+                  "usText": "light pinch"
                 },
                 {
                   "name": "Olive oil for finishing",
                   "amount": 40,
-                  "unit": "g"
+                  "unit": "g",
+                  "us": {
+                    "amount": 3,
+                    "unit": "tbsp"
+                  }
                 },
                 {
                   "name": "Maldon flakes, after baking",
                   "amount": 2,
                   "unit": "g",
-                  "approx": true
+                  "approx": true,
+                  "usText": "generous pinch"
                 }
               ]
             }
@@ -183,34 +229,57 @@
                 {
                   "name": "All-purpose flour",
                   "amount": 430,
-                  "unit": "g"
+                  "unit": "g",
+                  "us": {
+                    "amount": 2.867,
+                    "unit": "cup"
+                  },
+                  "usNote": "Spooned and leveled. Grams are more accurate for this dough."
                 },
                 {
                   "name": "Lukewarm water",
                   "amount": 325,
                   "unit": "g",
-                  "note": "35–40°C. Use 320 g for a less sticky dough."
+                  "note": "35–40°C. Use 320 g for a less sticky dough.",
+                  "us": {
+                    "amount": 1.371,
+                    "unit": "cup"
+                  }
                 },
                 {
                   "name": "Molino Rossetto lievito madre powder",
                   "amount": 4,
                   "unit": "g",
-                  "note": "Weigh it."
+                  "note": "Weigh it.",
+                  "usNote": "No reliable spoon measure for this powder: weigh it."
                 },
                 {
                   "name": "Honey",
                   "amount": 9,
-                  "unit": "g"
+                  "unit": "g",
+                  "us": {
+                    "amount": 1.5,
+                    "unit": "tsp"
+                  }
                 },
                 {
                   "name": "Kosher salt or fine sea salt",
                   "amount": 10,
-                  "unit": "g"
+                  "unit": "g",
+                  "us": {
+                    "amount": 3.33,
+                    "unit": "tsp"
+                  },
+                  "usNote": "Diamond Crystal. Morton kosher: 2 tsp. Fine sea salt: 1¾ tsp. (At batch ×1.)"
                 },
                 {
                   "name": "Extra-virgin olive oil",
                   "amount": 25,
-                  "unit": "g"
+                  "unit": "g",
+                  "us": {
+                    "amount": 2,
+                    "unit": "tbsp"
+                  }
                 }
               ]
             },
@@ -220,39 +289,62 @@
                 {
                   "name": "Olive oil for the pan",
                   "amount": 40,
-                  "unit": "g"
+                  "unit": "g",
+                  "us": {
+                    "amount": 3,
+                    "unit": "tbsp"
+                  }
                 },
                 {
                   "name": "Olive oil poured over the dough",
                   "amount": 25,
-                  "unit": "g"
+                  "unit": "g",
+                  "us": {
+                    "amount": 2,
+                    "unit": "tbsp"
+                  }
                 },
                 {
                   "name": "Brine: kosher salt",
                   "amount": 5,
-                  "unit": "g"
+                  "unit": "g",
+                  "us": {
+                    "amount": 1.5,
+                    "unit": "tsp"
+                  },
+                  "usNote": "Diamond Crystal. Morton kosher: 1 tsp."
                 },
                 {
                   "name": "Brine: lukewarm water",
                   "amount": 80,
-                  "unit": "g"
+                  "unit": "g",
+                  "us": {
+                    "amount": 0.3333333333333333,
+                    "unit": "cup"
+                  }
                 },
                 {
                   "name": "Maldon flakes, before baking",
                   "amount": 2,
                   "unit": "g",
-                  "approx": true
+                  "approx": true,
+                  "usText": "light pinch"
                 },
                 {
                   "name": "Olive oil for finishing",
                   "amount": 40,
-                  "unit": "g"
+                  "unit": "g",
+                  "us": {
+                    "amount": 3,
+                    "unit": "tbsp"
+                  }
                 },
                 {
                   "name": "Maldon flakes, after baking",
                   "amount": 2,
                   "unit": "g",
-                  "approx": true
+                  "approx": true,
+                  "usText": "generous pinch"
                 }
               ]
             }
@@ -334,7 +426,7 @@
       "versions": [
         {
           "name": "Lemon-soured milk",
-          "summary": "From the 7 October 2026 chat. Gram weights are converted from cups and spoons; the spoon measures are in the notes under each small amount.",
+          "summary": "From the 7 October 2026 chat. Cup and spoon amounts are the original recipe's; gram weights are converted from them.",
           "groups": [
             {
               "name": "Soured milk",
@@ -343,13 +435,21 @@
                   "name": "Whole milk",
                   "amount": 360,
                   "unit": "g",
-                  "note": "1½ cups. Start here; add more only if the batter is too stiff to spread."
+                  "note": "Start here; add more only if the batter is too stiff to spread.",
+                  "us": {
+                    "amount": 1.5,
+                    "unit": "cup"
+                  }
                 },
                 {
                   "name": "Lemon juice",
                   "amount": 22,
                   "unit": "g",
-                  "note": "1½ tbsp, about half a lemon. White vinegar works the same."
+                  "note": "About half a lemon. White vinegar works the same.",
+                  "us": {
+                    "amount": 1.5,
+                    "unit": "tbsp"
+                  }
                 }
               ]
             },
@@ -360,31 +460,47 @@
                   "name": "All-purpose flour",
                   "amount": 250,
                   "unit": "g",
-                  "note": "2 cups"
+                  "us": {
+                    "amount": 2,
+                    "unit": "cup"
+                  }
                 },
                 {
                   "name": "Baking powder",
                   "amount": 4,
                   "unit": "g",
-                  "note": "1 tsp (down from 2 tsp in the original)"
+                  "note": "Down from 2 tsp in the original.",
+                  "us": {
+                    "amount": 1,
+                    "unit": "tsp"
+                  }
                 },
                 {
                   "name": "Baking soda",
                   "amount": 3,
                   "unit": "g",
-                  "note": "½ tsp"
+                  "us": {
+                    "amount": 0.5,
+                    "unit": "tsp"
+                  }
                 },
                 {
                   "name": "Fine salt",
                   "amount": 1.5,
                   "unit": "g",
-                  "note": "¼ tsp"
+                  "us": {
+                    "amount": 0.25,
+                    "unit": "tsp"
+                  }
                 },
                 {
                   "name": "Sugar (optional)",
                   "amount": 12,
                   "unit": "g",
-                  "note": "1 tbsp"
+                  "us": {
+                    "amount": 1,
+                    "unit": "tbsp"
+                  }
                 }
               ]
             },
@@ -400,13 +516,20 @@
                   "name": "Butter, melted and cooled",
                   "amount": 28,
                   "unit": "g",
-                  "note": "2 tbsp"
+                  "us": {
+                    "amount": 2,
+                    "unit": "tbsp"
+                  }
                 },
                 {
                   "name": "Butter or neutral oil, for the pan",
                   "amount": 14,
                   "unit": "g",
-                  "note": "About 1 tbsp, used across batches"
+                  "note": "Used across batches.",
+                  "us": {
+                    "amount": 1,
+                    "unit": "tbsp"
+                  }
                 }
               ]
             }
