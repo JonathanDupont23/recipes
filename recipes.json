@@ -819,7 +819,7 @@
       "versions": [
         {
           "name": "Reconstructed",
-          "summary": "Not yet made. Rebuilt from the ingredient list on Boma's chef's notes card, which gives no amounts, so every quantity is an estimate. Tamarind and cayenne are the two to adjust to taste.",
+          "summary": "Not yet made. Rebuilt from the ingredient list on Boma's chef's notes card. The card gives no amounts and its order isn't by weight, so every quantity is an estimate. The method follows the card's order. Tamarind and cayenne are the two to adjust to taste.",
           "groups": [
             {
               "name": "Oxtail",
@@ -856,14 +856,14 @@
               "items": [
                 {
                   "name": "Roasted oxtail fat",
-                  "amount": 25,
+                  "amount": 15,
                   "unit": "g",
                   "approx": true,
                   "us": {
-                    "amount": 2,
+                    "amount": 1,
                     "unit": "tbsp"
                   },
-                  "note": "Saved from the roasting pan. This is the card's \"Roasted Oxtail Fat.\""
+                  "note": "From the roasting pan. The card lists no other cooking fat, so a little goes here."
                 },
                 {
                   "name": "Yellow onions, diced",
@@ -976,14 +976,6 @@
               "name": "To finish",
               "items": [
                 {
-                  "name": "Red kidney beans, drained and rinsed",
-                  "amount": 250,
-                  "unit": "g",
-                  "approx": true,
-                  "usText": "one 15.5-oz can",
-                  "note": "Drained weight of one 439 g (15.5 oz) can."
-                },
-                {
                   "name": "Corn kernels (frozen is fine)",
                   "amount": 210,
                   "unit": "g",
@@ -992,6 +984,14 @@
                     "amount": 1.5,
                     "unit": "cup"
                   }
+                },
+                {
+                  "name": "Red kidney beans, drained and rinsed",
+                  "amount": 250,
+                  "unit": "g",
+                  "approx": true,
+                  "usText": "one 15.5-oz can",
+                  "note": "Drained weight of one 439 g (15.5 oz) can."
                 },
                 {
                   "name": "Cornstarch",
@@ -1010,6 +1010,17 @@
                     "amount": 2,
                     "unit": "tbsp"
                   }
+                },
+                {
+                  "name": "Roasted oxtail fat, to finish",
+                  "amount": 15,
+                  "unit": "g",
+                  "approx": true,
+                  "us": {
+                    "amount": 1,
+                    "unit": "tbsp"
+                  },
+                  "note": "The card lists this second-to-last, just before the cilantro, so it seems to go back in at the end."
                 },
                 {
                   "name": "Fresh cilantro, chopped",
@@ -1031,11 +1042,11 @@
             },
             {
               "title": "Roast",
-              "text": "Roast in a single layer on a rimmed sheet pan, turning once, until deeply browned, about 45 minutes. Pour off and save the rendered fat. Drop the oven to 165°C (325°F)."
+              "text": "Roast in a single layer on a rimmed sheet pan, turning once, until deeply browned, about 45 minutes. Pour off and save the rendered fat; you'll use some now and some at the end. Drop the oven to 165°C (325°F)."
             },
             {
               "title": "Sweat the aromatics",
-              "text": "In a Dutch oven over medium heat, warm about 25 g (2 tbsp) of the oxtail fat. Cook the onions and carrots until the onion is soft and golden, about 10 minutes, then add the garlic for 1 minute."
+              "text": "In a Dutch oven over medium heat, warm about 15 g (1 tbsp) of the oxtail fat. Cook the onions and carrots until the onion is soft and golden, about 10 minutes, then add the garlic for 1 minute."
             },
             {
               "title": "Bloom the spices",
@@ -1055,15 +1066,16 @@
             },
             {
               "title": "Add beans and corn",
-              "text": "Bring back to a simmer on the stovetop, add the kidney beans and corn, and simmer about 15 minutes."
+              "text": "Bring back to a simmer on the stovetop, add the corn and kidney beans, and simmer about 15 minutes."
             },
             {
               "title": "Thicken and finish",
-              "text": "Whisk the cornstarch into the cold water, stir it into the simmering stew, and cook 2 minutes until glossy. Taste and adjust with more salt, and more tamarind if it needs brightness. Top with cilantro and serve over rice."
+              "text": "Whisk the cornstarch into the cold water, stir it into the simmering stew, and cook 2 minutes until glossy. Stir in about 15 g (1 tbsp) of the reserved roasted fat. Taste and adjust with more salt, and more tamarind if it needs brightness. Top with cilantro and serve over rice."
             }
           ],
           "notes": [
-            "Reading the card: ingredient lists run roughly heaviest first, so oxtail, onion, carrots and garlic are the bulk. Corn, beans and cornstarch come after the water, so they're supporting players.",
+            "Reading the card: the chef's ingredient list follows cooking order, not weight. Water comes late here even though it's the heaviest ingredient. So the order can't tell you amounts, but it does give the method: aromatics, then spices, then seasoning, tomato and liquid, then corn, beans and cornstarch late, and the roasted fat and cilantro at the very end.",
+            "Only the starred sub-ingredient lines on the card (beef base, diced tomatoes, kidney beans) are by weight. They're copied from packaged-food labels, which US law requires to list ingredients heaviest first.",
             "Despite the name, this is a Disney chef's version. A traditional Ghanaian stew would more likely lean on palm oil, ginger and scotch bonnet.",
             "At Boma it would sit next to the coconut rice or peanut rice on the buffet."
           ]
@@ -1072,7 +1084,7 @@
       "why": [
         {
           "head": "Why roast first.",
-          "text": "Dry heat browns the meat (the Maillard reaction), which builds the deep, savory flavor a braise can't make on its own. It also renders fat, which the card reuses to cook the aromatics."
+          "text": "Dry heat browns the meat (the Maillard reaction), which builds the deep, savory flavor a braise can't make on its own. It also renders fat. The card lists that fat near the end, so some goes back in as a finishing touch: fat carries the roasted flavor that hours of simmering would otherwise mute."
         },
         {
           "head": "Why bloom the spices in fat.",
