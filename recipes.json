@@ -856,14 +856,14 @@
               "items": [
                 {
                   "name": "Roasted oxtail fat",
-                  "amount": 15,
+                  "amount": 30,
                   "unit": "g",
                   "approx": true,
                   "us": {
-                    "amount": 1,
+                    "amount": 2,
                     "unit": "tbsp"
                   },
-                  "note": "From the roasting pan. The card lists no other cooking fat, so a little goes here."
+                  "note": "From the roasting pan. Top up with neutral oil if the oxtail gave less."
                 },
                 {
                   "name": "Yellow onions, diced",
@@ -926,22 +926,25 @@
               ]
             },
             {
-              "name": "Braising liquid",
+              "name": "Tomato and braising liquid",
               "items": [
                 {
                   "name": "Canned diced tomatoes, with juice",
-                  "amount": 411,
+                  "amount": 822,
                   "unit": "g",
-                  "usText": "one 14.5-oz can"
+                  "usText": "two 14.5-oz cans",
+                  "note": "Doubled from the first draft. Boma describes the dish as tomato-based."
                 },
                 {
                   "name": "Water",
-                  "amount": 1200,
+                  "amount": 950,
                   "unit": "g",
                   "us": {
-                    "amount": 5,
+                    "amount": 4,
                     "unit": "cup"
-                  }
+                  },
+                  "approx": true,
+                  "note": "Enough to nearly cover the oxtail."
                 },
                 {
                   "name": "Beef base (such as Better Than Bouillon)",
@@ -1046,15 +1049,19 @@
             },
             {
               "title": "Sweat the aromatics",
-              "text": "In a Dutch oven over medium heat, warm about 15 g (1 tbsp) of the oxtail fat. Cook the onions and carrots until the onion is soft and golden, about 10 minutes, then add the garlic for 1 minute."
+              "text": "In a Dutch oven over medium heat, warm 30 g (2 tbsp) of the oxtail fat. Cook the onions and carrots until the onion is soft and golden, about 10 minutes, then add the garlic for 1 minute."
             },
             {
               "title": "Bloom the spices",
               "text": "Add the cumin, coriander, paprika and cayenne and stir constantly for about 45 seconds, until fragrant."
             },
             {
+              "title": "Fry the tomatoes down",
+              "text": "Add both cans of tomatoes. Cook, stirring often and scraping the bottom, until they darken from bright red to brick red, thicken, and the fat separates at the edges, about 12 to 15 minutes. This step is borrowed from Ghanaian tomato stews."
+            },
+            {
               "title": "Build the braising liquid",
-              "text": "Stir in the tomatoes, water, beef base, tamarind paste and bay leaves, scraping up the browned bits. Add the oxtail and any pan juices; it should be nearly submerged."
+              "text": "Stir in the water, beef base, tamarind paste and bay leaves, scraping up the browned bits. Add the oxtail and any pan juices; it should be nearly submerged."
             },
             {
               "title": "Braise",
@@ -1077,7 +1084,8 @@
             "Reading the card: the chef's ingredient list follows cooking order, not weight. Water comes late here even though it's the heaviest ingredient. So the order can't tell you amounts, but it does give the method: aromatics, then spices, then seasoning, tomato and liquid, then corn, beans and cornstarch late, and the roasted fat and cilantro at the very end.",
             "Only the starred sub-ingredient lines on the card (beef base, diced tomatoes, kidney beans) are by weight. They're copied from packaged-food labels, which US law requires to list ingredients heaviest first.",
             "Despite the name, this is a Disney chef's version. A traditional Ghanaian stew would more likely lean on palm oil, ginger and scotch bonnet.",
-            "At Boma it would sit next to the coconut rice or peanut rice on the buffet."
+            "At Boma it would sit next to the coconut rice or peanut rice on the buffet.",
+            "Boma's dish was described in 2021 as a \"Western African-inspired tomato-based stew with tamarind\" (WDW News Today), which is why this version doubles the tomatoes. An older fan-posted Boma oxtail recipe (2004) is a different dish, with soy sauce, sugar, plantain and a roux."
           ]
         }
       ],
@@ -1089,6 +1097,10 @@
         {
           "head": "Why bloom the spices in fat.",
           "text": "Most of the flavor compounds in cumin, coriander and paprika dissolve in fat, not water. A quick fry releases them; simmering them in liquid alone leaves them dull and dusty."
+        },
+        {
+          "head": "Why fry the tomatoes down.",
+          "text": "Cooking off the tomatoes' water concentrates their sugars and browns them, turning a raw, sharp tomato taste into a deep, rounded one. When the fat separates, the water is mostly gone and the base is ready."
         },
         {
           "head": "Why three hours.",
