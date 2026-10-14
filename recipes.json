@@ -807,6 +807,290 @@
           "text": "Cake flour is lower in protein, so it forms less gluten. Folding only until combined keeps it that way."
         }
       ]
+    },
+    {
+      "id": "boma-ghanaian-oxtail-stew",
+      "title": "Boma-Style Ghanaian Oxtail Stew",
+      "category": "lunch-dinner",
+      "protein": "Beef",
+      "tagline": "Oxtail roasted, then braised low and slow with cumin, coriander, paprika and a tamarind tang, finished with kidney beans and sweet corn. Rebuilt from the ingredient list on Boma's dinner chef's notes card. Serves about 6. Oven 220°C, then 165°C (425°F, then 325°F).",
+      "updated": "14 October 2026",
+      "credit": "Reconstructed from the ingredient list on the Boma dinner chef's notes card (Disney's Animal Kingdom Lodge). The card gives ingredients only; every amount and step here is an estimate.",
+      "versions": [
+        {
+          "name": "Reconstructed",
+          "summary": "Not yet made. Rebuilt from the ingredient list on Boma's chef's notes card, which gives no amounts, so every quantity is an estimate. Tamarind and cayenne are the two to adjust to taste.",
+          "groups": [
+            {
+              "name": "Oxtail",
+              "items": [
+                {
+                  "name": "Oxtail, cut into pieces",
+                  "amount": 1800,
+                  "unit": "g",
+                  "usText": "4 lb"
+                },
+                {
+                  "name": "Kosher salt",
+                  "amount": 6,
+                  "unit": "g",
+                  "us": {
+                    "amount": 2,
+                    "unit": "tsp"
+                  },
+                  "usNote": "Diamond Crystal. More goes in at the end, to taste."
+                },
+                {
+                  "name": "Black pepper",
+                  "amount": 2,
+                  "unit": "g",
+                  "us": {
+                    "amount": 1,
+                    "unit": "tsp"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aromatics and spices",
+              "items": [
+                {
+                  "name": "Roasted oxtail fat",
+                  "amount": 25,
+                  "unit": "g",
+                  "approx": true,
+                  "us": {
+                    "amount": 2,
+                    "unit": "tbsp"
+                  },
+                  "note": "Saved from the roasting pan. This is the card's \"Roasted Oxtail Fat.\""
+                },
+                {
+                  "name": "Yellow onions, diced",
+                  "amount": 450,
+                  "unit": "g",
+                  "approx": true,
+                  "usText": "2 large"
+                },
+                {
+                  "name": "Carrots, sliced into coins",
+                  "amount": 200,
+                  "unit": "g",
+                  "approx": true,
+                  "usText": "3 medium"
+                },
+                {
+                  "name": "Garlic, minced",
+                  "amount": 30,
+                  "unit": "g",
+                  "approx": true,
+                  "usText": "6 cloves"
+                },
+                {
+                  "name": "Ground cumin",
+                  "amount": 4,
+                  "unit": "g",
+                  "us": {
+                    "amount": 2,
+                    "unit": "tsp"
+                  }
+                },
+                {
+                  "name": "Ground coriander",
+                  "amount": 4,
+                  "unit": "g",
+                  "us": {
+                    "amount": 2,
+                    "unit": "tsp"
+                  }
+                },
+                {
+                  "name": "Paprika",
+                  "amount": 7,
+                  "unit": "g",
+                  "us": {
+                    "amount": 1,
+                    "unit": "tbsp"
+                  }
+                },
+                {
+                  "name": "Cayenne",
+                  "amount": 1,
+                  "unit": "g",
+                  "us": {
+                    "amount": 0.5,
+                    "unit": "tsp"
+                  },
+                  "note": "Adjust to taste."
+                }
+              ]
+            },
+            {
+              "name": "Braising liquid",
+              "items": [
+                {
+                  "name": "Canned diced tomatoes, with juice",
+                  "amount": 411,
+                  "unit": "g",
+                  "usText": "one 14.5-oz can"
+                },
+                {
+                  "name": "Water",
+                  "amount": 1200,
+                  "unit": "g",
+                  "us": {
+                    "amount": 5,
+                    "unit": "cup"
+                  }
+                },
+                {
+                  "name": "Beef base (such as Better Than Bouillon)",
+                  "amount": 27,
+                  "unit": "g",
+                  "approx": true,
+                  "us": {
+                    "amount": 1.5,
+                    "unit": "tbsp"
+                  },
+                  "note": "A concentrated paste, which is why the card lists water separately."
+                },
+                {
+                  "name": "Tamarind paste",
+                  "amount": 25,
+                  "unit": "g",
+                  "approx": true,
+                  "us": {
+                    "amount": 1.5,
+                    "unit": "tbsp"
+                  },
+                  "note": "Adjust to taste. Add more at the end if the stew tastes flat."
+                },
+                {
+                  "name": "Bay leaves",
+                  "amount": 2,
+                  "unit": ""
+                }
+              ]
+            },
+            {
+              "name": "To finish",
+              "items": [
+                {
+                  "name": "Red kidney beans, drained and rinsed",
+                  "amount": 250,
+                  "unit": "g",
+                  "approx": true,
+                  "usText": "one 15.5-oz can",
+                  "note": "Drained weight of one 439 g (15.5 oz) can."
+                },
+                {
+                  "name": "Corn kernels (frozen is fine)",
+                  "amount": 210,
+                  "unit": "g",
+                  "approx": true,
+                  "us": {
+                    "amount": 1.5,
+                    "unit": "cup"
+                  }
+                },
+                {
+                  "name": "Cornstarch",
+                  "amount": 16,
+                  "unit": "g",
+                  "us": {
+                    "amount": 2,
+                    "unit": "tbsp"
+                  }
+                },
+                {
+                  "name": "Cold water, for the slurry",
+                  "amount": 30,
+                  "unit": "g",
+                  "us": {
+                    "amount": 2,
+                    "unit": "tbsp"
+                  }
+                },
+                {
+                  "name": "Fresh cilantro, chopped",
+                  "amount": 10,
+                  "unit": "g",
+                  "approx": true,
+                  "us": {
+                    "amount": 0.25,
+                    "unit": "cup"
+                  }
+                }
+              ]
+            }
+          ],
+          "steps": [
+            {
+              "title": "Season the oxtail",
+              "text": "Heat the oven to 220°C (425°F). Pat the oxtail dry and season with the salt and pepper."
+            },
+            {
+              "title": "Roast",
+              "text": "Roast in a single layer on a rimmed sheet pan, turning once, until deeply browned, about 45 minutes. Pour off and save the rendered fat. Drop the oven to 165°C (325°F)."
+            },
+            {
+              "title": "Sweat the aromatics",
+              "text": "In a Dutch oven over medium heat, warm about 25 g (2 tbsp) of the oxtail fat. Cook the onions and carrots until the onion is soft and golden, about 10 minutes, then add the garlic for 1 minute."
+            },
+            {
+              "title": "Bloom the spices",
+              "text": "Add the cumin, coriander, paprika and cayenne and stir constantly for about 45 seconds, until fragrant."
+            },
+            {
+              "title": "Build the braising liquid",
+              "text": "Stir in the tomatoes, water, beef base, tamarind paste and bay leaves, scraping up the browned bits. Add the oxtail and any pan juices; it should be nearly submerged."
+            },
+            {
+              "title": "Braise",
+              "text": "Bring to a simmer, cover, and move to the oven for about 3 hours, until the meat pulls easily from the bone."
+            },
+            {
+              "title": "Skim",
+              "text": "Remove the bay leaves and skim the fat off the surface. Better still, chill overnight and lift off the solid fat cap. The stew tastes better the next day anyway."
+            },
+            {
+              "title": "Add beans and corn",
+              "text": "Bring back to a simmer on the stovetop, add the kidney beans and corn, and simmer about 15 minutes."
+            },
+            {
+              "title": "Thicken and finish",
+              "text": "Whisk the cornstarch into the cold water, stir it into the simmering stew, and cook 2 minutes until glossy. Taste and adjust with more salt, and more tamarind if it needs brightness. Top with cilantro and serve over rice."
+            }
+          ],
+          "notes": [
+            "Reading the card: ingredient lists run roughly heaviest first, so oxtail, onion, carrots and garlic are the bulk. Corn, beans and cornstarch come after the water, so they're supporting players.",
+            "Despite the name, this is a Disney chef's version. A traditional Ghanaian stew would more likely lean on palm oil, ginger and scotch bonnet.",
+            "At Boma it would sit next to the coconut rice or peanut rice on the buffet."
+          ]
+        }
+      ],
+      "why": [
+        {
+          "head": "Why roast first.",
+          "text": "Dry heat browns the meat (the Maillard reaction), which builds the deep, savory flavor a braise can't make on its own. It also renders fat, which the card reuses to cook the aromatics."
+        },
+        {
+          "head": "Why bloom the spices in fat.",
+          "text": "Most of the flavor compounds in cumin, coriander and paprika dissolve in fat, not water. A quick fry releases them; simmering them in liquid alone leaves them dull and dusty."
+        },
+        {
+          "head": "Why three hours.",
+          "text": "Oxtail is mostly connective tissue. Long, gentle heat turns its collagen into gelatin, which makes the meat tender and gives the sauce its silky body."
+        },
+        {
+          "head": "Why tamarind.",
+          "text": "Oxtail is very rich. Tamarind's sourness cuts through that richness the way vinegar or citrus would, and it adds a fruity depth."
+        },
+        {
+          "head": "Why beans and corn go in late.",
+          "text": "Both are already cooked. Over a three-hour braise they would turn to mush."
+        }
+      ]
     }
   ]
 }
