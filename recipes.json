@@ -1157,12 +1157,6 @@
                   "note": "Dissolve in the water 10–15 min before mixing. Proportional to flour; scale with batch size."
                 },
                 {
-                  "name": "Instant yeast",
-                  "amount": 1,
-                  "unit": "g",
-                  "note": "About ¼ tsp. Insurance alongside the lievito madre — keeps the rise reliable."
-                },
-                {
                   "name": "Extra-virgin olive oil",
                   "amount": 5,
                   "unit": "g",
@@ -1184,7 +1178,7 @@
             },
             {
               "title": "Mix dry ingredients",
-              "text": "Whisk both flours together. Add the salt on one side of the bowl and the commercial yeast on the other — keep them apart until the water goes in."
+              "text": "Whisk both flours together. Add the salt and whisk it in thoroughly."
             },
             {
               "title": "Combine and autolyse",
@@ -1208,9 +1202,8 @@
             }
           ],
           "notes": [
-            "Salt and yeast must go on opposite sides of the bowl — direct dry contact weakens or kills the yeast.",
             "Semolina on the peel is essential with a wet, extensible 00-heavy dough and a metal peel.",
-            "For 3 pizzas: scale all ingredients by 1.5. Yeast: about 1.5g (just under ½ tsp). Lievito madre: 22–23g."
+            "For 3 pizzas: scale all ingredients by 1.5. Lievito madre: 22–23g."
           ]
         },
         {
@@ -1246,12 +1239,6 @@
                   "note": "Dissolve in the water 10–15 min before mixing."
                 },
                 {
-                  "name": "Instant yeast",
-                  "amount": 1,
-                  "unit": "g",
-                  "note": "About ¼ tsp. Safety net alongside the lievito madre."
-                },
-                {
                   "name": "Extra-virgin olive oil",
                   "amount": 5,
                   "unit": "g",
@@ -1273,7 +1260,7 @@
             },
             {
               "title": "Mix dry ingredients",
-              "text": "Whisk both flours together. Add salt on one side, commercial yeast on the other."
+              "text": "Whisk both flours together with the salt."
             },
             {
               "title": "Combine and autolyse",
@@ -1293,7 +1280,7 @@
             }
           ],
           "notes": [
-            "The original recipe used 8 g salt and commercial yeast only at ½ tsp. The salt was bumped to 11 g and the yeast formula switched to lievito madre + backup after testing.",
+            "The original recipe used 8 g salt and commercial yeast only at ½ tsp. The salt was bumped to 11 g and the yeast switched to lievito madre exclusively after the madre proved reliable.",
             "The 50/50 handles heavier toppings better than the 60/40 and is easier to stretch for beginners."
           ]
         }
@@ -1304,8 +1291,8 @@
           "text": "00 flour is finely milled and produces a silky, extensible dough that stretches without snapping. AP flour is coarser and adds chew and structure. The 60/40 leans toward extensibility and oven spring; the 50/50 leans toward a chewier, more forgiving dough."
         },
         {
-          "head": "Why lievito madre plus commercial yeast.",
-          "text": "Lievito madre (dried sourdough starter) provides flavor — slow fermentation builds complexity that commercial yeast alone can't match. But at these quantities it's slower and less predictable. The small amount of commercial yeast is insurance: it guarantees the rise even if the madre has lost some activity."
+          "head": "Why lievito madre.",
+          "text": "Lievito madre (dried sourdough starter) provides flavor — slow fermentation builds complexity that commercial yeast alone can't match. At room temperature under a blanket it gives a reliable 1.5–2.5 hour rise once it's proven active."
         },
         {
           "head": "Why 11 g salt.",
