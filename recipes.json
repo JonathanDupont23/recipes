@@ -1115,6 +1115,216 @@
           "text": "Both are already cooked. Over a three-hour braise they would turn to mush."
         }
       ]
+    },
+    {
+      "id": "neapolitan-pizza-dough",
+      "title": "Neapolitan Pizza Dough",
+      "category": "breads",
+      "protein": null,
+      "tagline": "Two-version pizza dough — 60/40 (00/AP) for a lighter, more extensible crust, and 50/50 for a chewier home-oven result. Both use lievito madre plus a small commercial yeast backup, 11 g salt, room-temperature rise. Bake on a preheated steel or stone at 550°F / 290°C.",
+      "updated": "18 October 2026",
+      "versions": [
+        {
+          "name": "60/40 — lighter, more extensible",
+          "status": "In progress",
+          "summary": "More 00 flour gives a stretchier, thinner dough with better oven spring and more char. Blue bag (Caputo Pizzeria) behaves more extensibly and tears more easily early in the knead — go gently and trust the windowpane test over feel. Developed October 2026.",
+          "groups": [
+            {
+              "name": "Dough (makes 2 pizzas)",
+              "items": [
+                {
+                  "name": "Caputo 00 flour",
+                  "amount": 184,
+                  "unit": "g",
+                  "note": "Red bag (Cuoco) is better for home ovens. Blue bag (Pizzeria) works but tears more during kneading and is optimized for 800°F+ wood-fired."
+                },
+                {
+                  "name": "All-purpose flour",
+                  "amount": 122,
+                  "unit": "g",
+                  "note": "King Arthur preferred."
+                },
+                {
+                  "name": "Fine sea salt",
+                  "amount": 11,
+                  "unit": "g",
+                  "note": "Mix into flour before adding yeast — never let salt and yeast touch dry."
+                },
+                {
+                  "name": "Molino lievito madre (dried)",
+                  "amount": 15,
+                  "unit": "g",
+                  "note": "Dissolve in the water 10–15 min before mixing. Proportional to flour; scale with batch size."
+                },
+                {
+                  "name": "Instant yeast",
+                  "amount": 1,
+                  "unit": "g",
+                  "note": "About ¼ tsp. Insurance alongside the lievito madre — keeps the rise reliable."
+                },
+                {
+                  "name": "Extra-virgin olive oil",
+                  "amount": 5,
+                  "unit": "g",
+                  "note": "About 1 tsp. Plus more for oiling tray and balls."
+                },
+                {
+                  "name": "Lukewarm water",
+                  "amount": 202,
+                  "unit": "g",
+                  "note": "~100°F / 38°C. Dissolve the lievito madre in this first."
+                }
+              ]
+            }
+          ],
+          "steps": [
+            {
+              "title": "Dissolve lievito madre",
+              "text": "Dissolve the lievito madre in the lukewarm water and let sit 10–15 minutes. It should look slightly foamy or cloudy."
+            },
+            {
+              "title": "Mix dry ingredients",
+              "text": "Whisk both flours together. Add the salt on one side of the bowl and the commercial yeast on the other — keep them apart until the water goes in."
+            },
+            {
+              "title": "Combine and autolyse",
+              "text": "Add the lievito madre water and olive oil. Stir until no dry flour remains — the dough will look shaggy and rough. This is correct. Cover tightly and rest 20–25 minutes. The gluten will begin forming on its own; this makes the knead faster and the dough more extensible."
+            },
+            {
+              "title": "Knead",
+              "text": "Turn onto a very lightly floured surface. Use a slap-fold-rotate motion: slap down, fold toward you, rotate 90°. Use a bench scraper to release the dough from the surface — don't add flour to compensate. With blue bag or after a long autolyse, the dough may tear early; keep going gently, it comes together. After 5–6 minutes, do the windowpane test: pull a small piece slowly — if it stretches thin enough to let light through without tearing, it's done. The dough will be slightly tacky and may not look as smooth as a red-bag dough. That's fine."
+            },
+            {
+              "title": "Divide and ball",
+              "text": "Divide into equal pieces. Shape each into a tight ball by folding edges under and pinching at the bottom. Place on a generously oiled tray. Oil the tops lightly and cover tightly with plastic wrap."
+            },
+            {
+              "title": "Rise at room temperature",
+              "text": "Rise covered until roughly doubled — about 1.5–2.5 hours depending on kitchen temperature. Under a blanket at ~70°F, expect closer to 1.5 hours. Look for visible puffing and a dough that jiggles when you nudge the tray. Don't cut this short — under-risen dough is dense and flat. Optional cold ferment: let the dough puff for 30–45 minutes first, then refrigerate overnight (up to 72 hrs). Bring fully to room temperature before stretching."
+            },
+            {
+              "title": "Stretch and top",
+              "text": "Rest the balls uncovered 15–20 minutes before stretching. On a floured surface, press and stretch from the center outward — no rolling pin. If it snaps back, cover and wait 10 minutes. Launch from a metal peel dusted generously with semolina (not just flour — semolina acts like ball bearings). Build the pizza quickly and don't let it sit on the peel. Shake the peel to confirm the dough slides freely before launching. Bake on a preheated steel or stone at 550°F / 290°C for 5–7 minutes."
+            }
+          ],
+          "notes": [
+            "Salt and yeast must go on opposite sides of the bowl — direct dry contact weakens or kills the yeast.",
+            "Semolina on the peel is essential with a wet, extensible 00-heavy dough and a metal peel.",
+            "For 3 pizzas: scale all ingredients by 1.5. Yeast: about 1.5g (just under ½ tsp). Lievito madre: 22–23g."
+          ]
+        },
+        {
+          "name": "50/50 — chewier home-oven result",
+          "status": "In progress",
+          "summary": "Equal parts 00 and AP. More forgiving to shape, holds toppings better, chewier crumb. Salt bumped to 11 g from the original 8 g after the 50/50 tasted flat. Developed October 2026.",
+          "groups": [
+            {
+              "name": "Dough (makes 2 pizzas)",
+              "items": [
+                {
+                  "name": "Caputo 00 flour",
+                  "amount": 153,
+                  "unit": "g",
+                  "note": "Red bag (Cuoco) preferred for home ovens."
+                },
+                {
+                  "name": "All-purpose flour",
+                  "amount": 153,
+                  "unit": "g",
+                  "note": "King Arthur preferred."
+                },
+                {
+                  "name": "Fine sea salt",
+                  "amount": 11,
+                  "unit": "g",
+                  "note": "Mix into flour before adding yeast."
+                },
+                {
+                  "name": "Molino lievito madre (dried)",
+                  "amount": 15,
+                  "unit": "g",
+                  "note": "Dissolve in the water 10–15 min before mixing."
+                },
+                {
+                  "name": "Instant yeast",
+                  "amount": 1,
+                  "unit": "g",
+                  "note": "About ¼ tsp. Safety net alongside the lievito madre."
+                },
+                {
+                  "name": "Extra-virgin olive oil",
+                  "amount": 5,
+                  "unit": "g",
+                  "note": "About 1 tsp. Plus more for oiling."
+                },
+                {
+                  "name": "Lukewarm water",
+                  "amount": 202,
+                  "unit": "g",
+                  "note": "~100°F / 38°C."
+                }
+              ]
+            }
+          ],
+          "steps": [
+            {
+              "title": "Dissolve lievito madre",
+              "text": "Dissolve the lievito madre in the lukewarm water and let sit 10–15 minutes."
+            },
+            {
+              "title": "Mix dry ingredients",
+              "text": "Whisk both flours together. Add salt on one side, commercial yeast on the other."
+            },
+            {
+              "title": "Combine and autolyse",
+              "text": "Add the lievito madre water and olive oil. Stir until no dry flour remains. Cover and rest 20–25 minutes."
+            },
+            {
+              "title": "Knead",
+              "text": "Knead 6–8 minutes using the slap-fold-rotate method. Use a bench scraper to manage sticking. The 50/50 dough gets noticeably smoother than a 60/40. Finish with the windowpane test."
+            },
+            {
+              "title": "Divide, ball, and rise",
+              "text": "Same as the 60/40 version: divide, ball tightly, oil tray and tops, cover, rise at room temperature until doubled (1.5–2.5 hours). Same cold ferment option applies."
+            },
+            {
+              "title": "Stretch and top",
+              "text": "Rest 15–20 minutes before stretching. The 50/50 is stiffer and less likely to tear. Semolina on the peel still recommended. Bake at 550°F / 290°C for 5–7 minutes."
+            }
+          ],
+          "notes": [
+            "The original recipe used 8 g salt and commercial yeast only at ½ tsp. The salt was bumped to 11 g and the yeast formula switched to lievito madre + backup after testing.",
+            "The 50/50 handles heavier toppings better than the 60/40 and is easier to stretch for beginners."
+          ]
+        }
+      ],
+      "why": [
+        {
+          "head": "Why two flours.",
+          "text": "00 flour is finely milled and produces a silky, extensible dough that stretches without snapping. AP flour is coarser and adds chew and structure. The 60/40 leans toward extensibility and oven spring; the 50/50 leans toward a chewier, more forgiving dough."
+        },
+        {
+          "head": "Why lievito madre plus commercial yeast.",
+          "text": "Lievito madre (dried sourdough starter) provides flavor — slow fermentation builds complexity that commercial yeast alone can't match. But at these quantities it's slower and less predictable. The small amount of commercial yeast is insurance: it guarantees the rise even if the madre has lost some activity."
+        },
+        {
+          "head": "Why 11 g salt.",
+          "text": "The original recipe used 8 g (about 2.6% of flour weight). After baking, the crust tasted flat. 11 g brings it to about 3.6%, near the top of the traditional Neapolitan range, and the difference is noticeable."
+        },
+        {
+          "head": "Why autolyse before kneading.",
+          "text": "Gluten forms when flour and water combine, even without kneading. Letting the dough rest 20–25 minutes after mixing means the gluten is already partially developed before kneading starts — less work, better texture, more extensible result."
+        },
+        {
+          "head": "Why semolina on the peel.",
+          "text": "A wet 00-heavy dough on a metal peel sticks badly. Semolina is coarser than flour and acts like ball bearings under the dough. Always shake the peel before launching to confirm the dough slides freely."
+        }
+      ],
+      "next": [
+        "Bake the 60/40 version with red bag (Cuoco) and compare to blue bag.",
+        "Try cold ferment with the lievito madre formula and record the difference in flavor.",
+        "Test 70/30 ratio for even more extensibility at higher oven temperatures."
+      ]
     }
   ]
 }
